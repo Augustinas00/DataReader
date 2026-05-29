@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.Theme.DataReader" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Application dark theme settings. -->
+    </style>
+
+    <style name="Theme.DataReader" parent="Base.Theme.DataReader" />
+
+</resources>

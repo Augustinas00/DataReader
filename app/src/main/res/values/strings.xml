@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="app_name">Duomenų skaitytuvas</string>
+
+    <string name="screen_title">Internetiniai duomenys</string>
+    <string name="screen_description">Pasirinkite duomenų šaltinį ir nuskaitykite informaciją iš interneto.</string>
+
+    <string name="label_data_source">Duomenų šaltinis</string>
+    <string name="label_currency_code">Valiutos kodas</string>
+    <string name="hint_currency_code">Pvz., USD, GBP arba PLN</string>
+
+    <string name="button_load_data">Nuskaityti duomenis</string>
+
+    <string name="label_result">Rezultatas</string>
+    <string name="message_choose_source">Pasirinkite šaltinį ir paspauskite mygtuką.</string>
+    <string name="message_loading">Duomenys kraunami...</string>
+
+    <string name="error_currency_empty">Įveskite valiutos kodą.</string>
+    <string name="error_currency_format">Valiutos kodą turi sudaryti 3 raidės.</string>
+    <string name="error_loading_data">Nepavyko nuskaityti duomenų.</string>
+
+    <string-array name="data_source_options">
+        <item>ECB valiutų kursai</item>
+        <item>Meteo.lt Vilniaus orai</item>
+        <item>Cat Fact API</item>
+    </string-array>
+
+</resources>
