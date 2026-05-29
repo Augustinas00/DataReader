@@ -68,7 +68,6 @@ public class MainActivity extends AppCompatActivity {
             ) {
                 updateInputVisibility(position);
             }
-
             @Override
             public void onNothingSelected(AdapterView<?> parent) {
                 updateInputVisibility(SOURCE_CURRENCY);
